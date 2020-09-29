@@ -1,0 +1,3457 @@
+[
+    {
+        "bankName": "Albaraka Islamic Bank",
+        "productName": "Murabaha",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "2 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+             "mintenure": 90,
+             "maxtenure": 365
+        },
+        "collateral": [
+            "Any moveable, immoveable security acceptable to bank including a personal guarantee of directors etc."
+        ],
+        "contactDetails": {
+            "name": "Nouman Rasheed",
+            "designation": "VP / Unit Head-Lahore",
+            "department": "Commercial Banking & SME",
+            "address": "Head Office Albaraka Bank (Pakistan) Ltd- Islamic Banking",
+            "city": "Lahore",
+            "phone": "0346-8221128"
+        }
+    },
+    {
+        "bankName": "Albaraka Islamic Bank",
+        "productName": "Ijarah",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+        
+        "markUp": {
+            "minMarkUp": "2 %",
+            "maxMarkUp": "5 %",
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load"
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "collateral": [
+            "Any moveable, immoveable security acceptable to bank including a personal guarantee of directors etc."
+        ],
+        "contactDetails": {
+            "name": "Nouman Rasheed",
+            "designation": "VP / Unit Head-Lahore",
+            "department": "Commercial Banking & SME",
+            "address": "Head Office Albaraka Bank (Pakistan) Ltd- Islamic Banking",
+            "city": "Lahore",
+            "phone": "0346-8221128"
+        }
+    },
+    {
+        "bankName": "Albaraka Islamic Bank",
+        "productName": "Musharaka / Diminishing Musharaka",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+        
+        "markUp": {
+            "minMarkup": "2 %",
+            "maxMarkup": "5 %",
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load"
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 75000000
+        },
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 2555
+       },
+        "collateral": [
+            "Any moveable, immoveable security acceptable to bank including a personal guarantee of directors etc."
+        ],
+        "contactDetails": {
+            "name": "Nouman Rasheed",
+            "designation": "VP / Unit Head-Lahore",
+            "department": "Commercial Banking & SME",
+            "address": "Head Office Albaraka Bank (Pakistan) Ltd- Islamic Banking",
+            "city": "Lahore",
+            "phone": "0346-8221128"
+        }
+    },
+    {
+        "bankName": "Albaraka Islamic Bank",
+        "productName": "Letter of Credit (LC)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "collateral": [
+            " Good forthcoming against shipping documents under LC accepted draft  ",
+            " Trust receipt  ",
+            " Hypothecation of stock and receivables  ",
+            " Charge over present and future fixed assets  "
+        ],
+        "contactDetails": {
+            "name": "Nouman Rasheed",
+            "designation": "VP / Unit Head-Lahore",
+            "department": "Commercial Banking & SME",
+            "address": "Head Office Albaraka Bank (Pakistan) Ltd- Islamic Banking",
+            "city": "Lahore",
+            "phone": "0346-8221128"
+        }
+    },
+    {
+        "bankName": "Albaraka Islamic Bank",
+        "productName": "Letter of Guarantee",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "2 %",
+            "maxMarkUp": "5 %"
+           
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "collateral": [
+            " Counter guarantee  ",
+            " Hypothecation of stock and receivables  ",
+            " Charge over present & future fixed assets  ",
+            " Registered / equitable mortgage over property  "
+        ],
+        "contactDetails": {
+            "name": "Nouman Rasheed",
+            "designation": "VP / Unit Head-Lahore",
+            "department": "Commercial Banking & SME",
+            "address": "Head Office Albaraka Bank (Pakistan) Ltd- Islamic Banking",
+            "city": "Lahore",
+            "phone": "0346-8221128"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "SBP Refinance Scheme for storage of Agricultural Produce",
+        "sector": "Agriculture, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Agricultural Inputs",
+            " Purchase of Agricultural Machinery and Implements",
+            " Others"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 500000000
+        },
+        
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 2555
+       },
+        "eligibilityCriteria": [
+            "Educated/un-employed men & women falling in the age bracket of 21-45 years"
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            " Primary Security: Hypothecation of Stocks & Receivables;  ",
+            " Secondary Security: Exclusive charge/1st Pari Passu charge over fixed assets of the entities with regulatory margins."
+        ],
+        "contactDetails": {
+            "name": "Shaheryar Aziz Malik",
+            "designation": "Unit Head-Asset",
+            "department": "CRBG",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31467, 0300 4099099",
+            "email": "shaheryar.malik@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Business Finance (PPM Specially Designed to meet Business needs of SMEs) - Running Finance",
+        "sector": "Manufacturing, Agriculture, Trading",
+        "purpose": [
+            "Others",
+            " Purchase of Raw Material",
+            " Purchase of Agricultural Inputs",
+            " Payment to Suppliers",
+            " Payment of Labour & other expenses"
+        ],
+        
+        "markUp": {
+            
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "2 %",
+            "maxMarkUp": "5 %"
+            },
+        "loanAmount": {
+            "minAmount": 200000,
+            "maxAmount": 15000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            " Security for Running Finance - Hypothecation of Stocks & Receivables; Margin 25%.  ",
+            " Token Registered Mortgage and balance amount covered by equitable mortgage of residential or commercial or Industrial Properties (along with Machinery)."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Business Finance - Term Loan",
+        "sector": "Agriculture, Manufacturing, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Agricultural Machinery and Implements",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Others"
+        ],
+        
+        "markUp": {
+            
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            },
+        "loanAmount": {
+            "minAmount": 200000,
+            "maxAmount": 15000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 2555
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            "Token Registered Mortgage and balance amount covered by equitable mortgage of residential or commercial or Industrial Properties (along with Machinery)."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Business Finance - Export /Import related Working Capital Facilities",
+        "sector": "Agriculture, Manufacturing, Trading",
+        "purpose": [
+            "Payment to Suppliers",
+            " Purchase of Raw Material",
+            " Others"
+        ],
+        
+        "markUp": {
+            
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "4.5 %"
+            },
+        "loanAmount": {
+            "minAmount": 200000,
+            "maxAmount": 15000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            " FAPC (Pre-shipment) - Lien on L/Cs and/or contracts plus a) above  ",
+            " FAPC (Post-shipment) - Lien on export documents  ",
+            " FAFB - Lien on export documents plus a) above  ",
+            " FATR - Trust Receipt against each consignment plus a) above  "
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Business Finance - Letter of Guarantee",
+        "sector": "Agriculture, Manufacturing, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "4.5 %"
+            },
+        "loanAmount": {
+            "minAmount": 200000,
+            "maxAmount": 15000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 912
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            "Token Registered Mortgage and balance amount covered by equitable mortgage of residential or commercial or Industrial Properties (along with Machinery)."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "PMYBL (SBP Scheme)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Agricultural Inputs",
+            " Purchase of Agricultural Machinery and Implements",
+            " Purchase of Machinery and Equipment",
+            " Purchase of Raw Material",
+            " Others"
+        ],
+        
+        "markUp": {
+            "postFix": "p.a.",
+            "preFix": "As per schedule of charges, Fixed Price for obligors",
+            "minMarkUp": "@6.00%",
+            "maxMarkUp": "@6.00%"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 2000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 2920
+       },
+        "eligibilityCriteria": [
+            "Educated/un-employed men & women falling in the age bracket of 21-45 years"
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            " Primary Security - Hypothecation of Stocks & Receivables; Third Party Guarantee equal to 1.5 times the loan amount.  ",
+            " Secondary Security - Token Registered Mortgage and balance amount covered by equitable mortgage of residential or commercial or Industrial/agricultural properties (along with Machinery), lien of deposits/pledge of National Savings Certificates/lien on TDR's/Gold ornaments"
+        ],
+        "contactDetails": {
+            "name": "Shaheryar Aziz Malik",
+            "designation": "Unit Head Assets",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31467, 0300 4099099",
+            "email": "shaheryar.malik@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Business Finance - Letter of Credit",
+        "sector": "Agriculture, Manufacturing, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "4.5 %"
+           
+            },
+        "loanAmount": {
+            "minAmount": 200000,
+            "maxAmount": 15000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 182
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            " Cash Margin + Lien on import documents  ",
+            "  Token Registered Mortgage and balance amount covered by equitable mortgage of residential or commercial or Industrial Properties (along with Machinery)."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Lease Finance",
+        "sector": "Manufacturing, Services, Trading",
+        "purpose": [
+            "Purchase of Machinery and Equipment",
+            " Others"
+        ],
+        
+        "markUp": {
+           
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            "Joint charge on Registration of vehicle & charge on P&M"
+        ],
+        "contactDetails": {
+            "name": "Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Fast Finance - Running Finance",
+        "sector": "Services, Trading",
+        "purpose": [
+            "Others",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "2.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities including Self-employed business persons/professionals Individuals, joint account holders, Association of Persons (AOPs), Partnership Firms, Limited Co / Society / Trust etc."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            "Lieu on PKR/FC Deposits, Term Deposits, Bank Guarantees, Allied Asset Management Company Funds, and Government Securities excluding National Prize Bonds and Long Term Government Bonds."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Fast Finance - Term Loan",
+        "sector": "Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Others"
+        ],
+        
+        "markUp": {
+           
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "2.5 %"
+            },
+        "loanAmount": {
+            "minAmount": 5000000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities including Self-employed business persons/professionals Individuals, joint account holders, Association of Persons (AOPs), Partnership Firms, Limited Co / Society / Trust etc."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            "Lieu on PKR/FC Deposits, Term Deposits, Bank Guarantees, Allied Asset Management Company Funds, and Government Securities excluding National Prize Bonds and Long Term Government Bonds."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Fast Finance - Letter of Guarantee",
+        "sector": "Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spred",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "2.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities including Self-employed business persons/professionals Individuals, joint account holders, Association of Persons (AOPs), Partnership Firms, Limited Co / Society / Trust etc."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            "Lieu on PKR/FC Deposits, Term Deposits, Bank Guarantees, Allied Asset Management Company Funds, and Government Securities excluding National Prize Bonds and Long Term Government Bonds."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Allied Business Finance - Letter of Credit",
+        "sector": "Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "2.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 5000000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 182
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities including Self-employed business persons/professionals Individuals, joint account holders, Association of Persons (AOPs), Partnership Firms, Limited Co / Society / Trust etc."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            "Lieu on PKR/FC Deposits, Term Deposits, Bank Guarantees, Allied Asset Management Company Funds, and Government Securities excluding National Prize Bonds and Long Term Government Bonds."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Cash Finance (Pledge of Rice/Paddy stock) in ABL's Own Warehouses/Godowns",
+        "sector": "Agriculture",
+        "purpose": [
+            "Payment to Suppliers",
+            " Purchase of Agricultural Inputs"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 5000000,
+            "maxAmount": 200000000
+        },
+       
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities related to Rice & Paddy."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            " Primary Security - Pledge of stocks  ",
+            " Secondary Security - Mortgage of property up to 25% of Limit"
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "Working Capital Finance",
+        "sector": "Agriculture, Manufacturing, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Agricultural Inputs",
+            " Purchase of Raw Material",
+            " Others"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 5000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "SME's engaged in various business activities."
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            " Security for Running Finance - Hypothecation of Stocks & Receivables; Margin 25%.  ",
+            " Token Registered Mortgage and balance amount covered by equitable mortgage of residential or commercial or Industrial Properties (along with Machinery)."
+        ],
+        "contactDetails": {
+            "name": "Mr. Tahir Hussain Bukhtiaree",
+            "designation": "Divisional Head-Asset",
+            "department": "Asset Management",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31434, 03004246863",
+            "email": "tahir.bakhtiaree@abl.com"
+        }
+    },
+    {
+        "bankName": "Allied Bank Limited",
+        "productName": "SBP Refinance Scheme for Modernization of SME's",
+        "sector": "Agriculture, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+       
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 3650
+       },
+        "eligibilityCriteria": [
+            "Educated/un-employed men & women falling in the age bracket of 21-45 years"
+        ],
+        "requiredDocuments": [
+            "In accordance to bank's credit policy guidelines as well as regulatory requirements for each facility."
+        ],
+        "collateral": [
+            " Primary Security: Hypothecation of Stocks & Receivables  ",
+            " Secondary Security: Exclusive charge/1st Pari Passu charge over fixed assets of the entities with regulatory margins."
+        ],
+        "contactDetails": {
+            "name": "Shaheryar Aziz Malik",
+            "designation": "Unit Head-Asset",
+            "department": "CRBG",
+            "address": "ABL, Head Office, 2nd Floor, Garden Town",
+            "city": "Lahore",
+            "phone": "042-35880043-31467, 0300 4099099",
+            "email": "shaheryar.malik@abl.com"
+        }
+    },
+    {
+        "bankName": "Bank Alfalah",
+        "productName": "Alfalah Karobar Finance",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Guarantee/LC",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material",
+            " Others"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "3.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+    
+        "loanAmount": {
+            "minAmount": 5000000,
+            "maxAmount": 30000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "SMEs to meet their working capital requirement"
+        ],
+        "requiredDocuments": [
+            " Latest e-CBI  ",
+            " Borrowers basic fact sheet  ",
+            " Bank account statement last 6 months  ",
+            " Copy of CNIC Individual / partner /directors/ trustees  "
+        ],
+        "collateral": [
+            "Urban residential / commercial / industrial / property (third party collateral also allowed)"
+        ],
+        "contactDetails": {
+            "name": "Yasir Butt",
+            "designation": "Senior Product Manager SME",
+            "department": "SME Financing",
+            "address": "Shahdin Manzil",
+            "city": "Lahore",
+            "phone": "0321-4149085",
+            "email": "yasirb@bankalfalah.com"
+        }
+    },
+    {
+        "bankName": "Bank Alfalah",
+        "productName": "Alfalah Milkiat Finance",
+        "sector": "Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "3 %",
+            "maxMarkUp": "5 %"
+            
+            },
+    
+        "loanAmount": {
+            "minAmount": 5000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 730,
+            "maxtenure": 5475
+       },
+        "eligibilityCriteria": [
+            "For SMEs to meet their business expansion requirements"
+        ],
+        "requiredDocuments": [
+            " Latest e-CBI  ",
+            " Borrowers basic fact sheet  ",
+            " Bank account statement last 6 months  ",
+            " Copy of CNIC individual / partner /directors/ trustees  "
+        ],
+        "collateral": [
+            "Registered mortgage of urban commercial / industrial property or properties"
+        ],
+        "contactDetails": {
+            "name": "Yasir Butt",
+            "designation": "Senior Product Manager SME",
+            "department": "SME Financing",
+            "address": "Shahdin Manzil",
+            "city": "Lahore",
+            "phone": "0321-4149085",
+            "email": "yasirb@bankalfalah.com"
+        }
+    },
+    {
+        "bankName": "Bank Alfalah",
+        "productName": "Alfalah Quick Finance",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Agricultural Inputs",
+            " Purchase of Agricultural Machinery and Implements",
+            " Purchase of Dairy/Livestock/Poultry Machinery",
+            " Purchase of Machinery and Equipment",
+            " Purchase of Raw Material"
+        ],
+      
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "2 %"
+            
+            },
+    
+        "loanAmount": {
+            "minAmount": 50000,
+            "maxAmount": 300000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "For consumers , SMEs and corporates to meet their working capital requirement"
+        ],
+        "requiredDocuments": [
+            " Bank account statement last 6 months  ",
+            " Copy of deposit certificates  ",
+            " Latest treasury sheet  ",
+            " Copy of CNIC Individual / partner /directors/ trustees  "
+        ],
+        "collateral": [
+            " Defence saving certificates, special saving certificates & regular income certificated issued by the govt. of Pakistan under the national saving schemes and purchased through banks  ",
+            " Alfalah GHP mutual funds (sovereign fund and capital preservation fund) State Bank of Pakistan offices and national saving centers shall be acceptable as a security  ",
+            " Deposits of BAL or other reputed banks (rates"
+        ],
+        "contactDetails": {
+            "name": "Yasir Butt",
+            "designation": "Senior Product Manager SME",
+            "department": "SME Financing",
+            "address": "Shahdin Manzil",
+            "city": "Lahore",
+            "phone": "0321-4149085",
+            "email": "yasirb@bankalfalah.com"
+        }
+    },
+    {
+        "bankName": "Bank Alfalah",
+        "productName": "Alfalah Merchant Line",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment to Suppliers"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "5 %",
+            "maxMarkUp": "9 %"
+            
+            },
+    
+        "loanAmount": {
+            "minAmount": 250000,
+            "maxAmount": 15000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "collateral": [
+            "Clean Loan"
+        ],
+        "contactDetails": {
+            "name": "Yasir Butt",
+            "designation": "Senior Product Manager SME",
+            "department": "SME Financing",
+            "address": "Shahdin Manzil",
+            "city": "Lahore",
+            "phone": "0321-4149085",
+            "email": "yasirb@bankalfalah.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Small Business Finance (SBF) (Running Finance)",
+        "sector": "Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2 %",
+            "maxMarkUp": "6 %"
+            
+            },
+    
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 10000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Age of key sponsor must be between 25 and 65 years  ",
+            " The primary sponsor / mortgage / borrower / must be resident of Pakistan  ",
+            " One year bank statement with any bank  ",
+            " High risk business and negative profession not allowed  "
+        ],
+        "requiredDocuments": [
+            " Complete Application Form  ",
+            " Copy of CNIC  ",
+            " Copy of latest utility bills  ",
+            " Proprietorship / declaration / partnership deed / latest form 29  "
+        ],
+        "collateral": [
+            " Equitable mortgage of residential / commercial / industrial properties   ",
+            " HBL deposits / government securities (DSCs , SSCs , RICs)"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "sif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Small Business Finance (SBF)",
+        "sector": "Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "2 %",
+            "maxMarkUp": "9 %"
+            
+            },
+    
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 10000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            " Age of key sponsor must be between 25 and 65 years  ",
+            " The primary sponsor / mortgage / borrower / must be resident of Pakistan  ",
+            " One year bank statement with any bank  ",
+            " High risk business and negative profession not allowed  "
+        ],
+        "requiredDocuments": [
+            " Complete application form  ",
+            " Copy of CNIC  ",
+            " Copy of latest utility bills  ",
+            " Proprietorship/declaration/partnership deed/latest form 29  "
+        ],
+        "collateral": [
+            " Equitable mortgage of residential / commercial / industrial properties   ",
+            " HBL deposits / government securities (DSCs , SSCs , RICs)"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "sif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Easy Loan (EL) (Running Finance)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Guarantee/LC",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "2.5 %"
+            
+            },
+    
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 500000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Borrower or primary sponsor must be a Pakistani resident  ",
+            " Age of primary sponsor must be between 18 and 70 years  ",
+            " The Borrower must meet KYC (Know your customer) and AML (Anti Money Laundering) criteria set by the bank.  ",
+            " The borrower must fulfill the bank and applicable regulatory policies."
+        ],
+        "requiredDocuments": [
+            " Complete Application Form  ",
+            " Copy of CNIC key sponsor and security provider  ",
+            " Copy of latest utility bills  ",
+            " Proprietorship / declaration / partnership deed / latest form 29  "
+        ],
+        "collateral": [
+            "HBL Deposits / Government Securities (DSCs , SSCs , RICs)"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Easy Loan (EL) (Demand Finance)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Guarantee/LC",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "2.5 %"
+            
+            },
+    
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 500000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            " Borrower or Primary Sponsor must be a Pakistani resident  ",
+            " Age of Primary Sponsor must be between 18 and 70 years  ",
+            " The Borrower must meet KYC (Know your customer) and AML (Anti Money Laundering) Criteria set by the bank.  ",
+            " The borrower must fulfill the bank and applicable regulatory policies."
+        ],
+        "requiredDocuments": [
+            " Complete application form  ",
+            " Copy of CNIC key sponsor and security provider  ",
+            " Copy of latest utility bills  ",
+            " Proprietorship/declaration/partnership deed/latest form 29  "
+        ],
+        "collateral": [
+            "HBL deposits / government securities (DSCs, SSCs, RICs)"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Easy Loan (EL) (Letter of Guarantee)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 250000000
+        },
+       
+        "tenure":{
+            "mintenure": 90,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            " Borrower or primary sponsor must be a Pakistani resident  ",
+            " Age of primary sponsor must be between 18 and 70 years  ",
+            " The Borrower must meet KYC (Know your customer) and AML (Anti Money Laundering) criteria set by the bank.  ",
+            " The borrower must fulfill the bank and applicable regulatory policies."
+        ],
+        "requiredDocuments": [
+            " Complete application form  ",
+            " Copy of CNIC key sponsor and security provider  ",
+            " Copy of latest utility bills  ",
+            " Proprietorship / declaration / partnership deed / latest form 29  "
+        ],
+        "collateral": [
+            "Financing against local/foreign currency (EUR, USD, GBP) deposits and/or National Saving Certificates (DSC/ SSC/RIC)​​"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Easy Loan (EL) (Letter of Credit)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 250000000
+        },
+       
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 182
+       },
+        "eligibilityCriteria": [
+            " Borrower or primary sponsor must be a Pakistani resident  ",
+            " Age of primary sponsor must be between 18 and 70 years  ",
+            " The Borrower must meet KYC (Know your customer) and AML (Anti Money Laundering) criteria set by the bank.  ",
+            " The borrower must fulfill the bank and applicable regulatory policies."
+        ],
+        "requiredDocuments": [
+            " Complete Application Form  ",
+            " Copy of CNIC key sponsor and security provider  ",
+            " Copy of latest utility bills  ",
+            " Proprietorship / declaration / partnership deed / latest form 29  "
+        ],
+        "collateral": [
+            "Financing against local/foreign currency (EUR, USD, GBP) deposits and/or National Saving Certificates (DSC/ SSC/RIC)​​"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "School Finance",
+        "sector": "Services",
+        "purpose": [
+            "Construct Building",
+            " Payment of Labour & other expenses",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "1.75 %",
+            "maxMarkUp": "3 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            "Small and medium-size schools having minimum 100 students and approximately minimum yearly revenue of Rs. 5 million where minimum average per student not less than Rs.2500/-"
+        ],
+        "requiredDocuments": [
+            " Proof of recognition by relevant Provincial Education Board as applicable.  ",
+            " All regulatory approvals should be in place.  ",
+            " Minimum 3 years Business Financial Statements.  ",
+            " Minimum 5years’ operating history of business, the deviation will be allowed for new ventures of established business groups.  "
+        ],
+        "collateral": [
+            " Fee collection mandate. Collateral (mortgage of land and building, a lien on liquid asset).  ",
+            " Hypothecation of current assets.  ",
+            " Personal guarantees of sponsors/ directors.  ",
+            " Insurance of collateral as applicable."
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Channel Finance (Dealer/Distributor Finance Facility)",
+        "sector": "Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Legal Entity Status (partnership, proprietorship or company).  ",
+            " Length of relationship to be mutually agreed by principal and H​BL.  ",
+            " Going concern for at least two years. Minimum annual turnover to be mutually agreed by principal and HBL.  ",
+            " The primary sponsor must be resident Pakistani aged between 21 years to 70 years.  "
+        ],
+        "requiredDocuments": [
+            " Company and director profile.  ",
+            " Last 3 years audited financials.  ",
+            " Copy of management accounts.  ",
+            " Projections for next year.  "
+        ],
+        "collateral": [
+            " Collateral (mortgage land & building, hypothecation of stocks & receivable).  ",
+            " Personal guarantees and insurance of assets where applicable​"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Channel Finance (Supplier/Vendor Finance Facility)",
+        "sector": "Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Legal Entity Status (partnership, proprietorship or company).  ",
+            " Length of relationship to be mutually agreed by principal and H​BL.  ",
+            " Going concern for at least two years. Minimum annual turnover to be mutually agreed by principal and HBL.  ",
+            " The primary sponsor must be resident Pakistani aged between 21 years to 70 years.  "
+        ],
+        "requiredDocuments": [
+            " Company and Director Profile.  ",
+            " Last 3 years audited financials.  ",
+            " Copy of management accounts.  ",
+            " Projections for next year.  "
+        ],
+        "collateral": [
+            " Collateral (mortgage land & building, hypothecation of stocks & receivable).  ",
+            " Personal guarantees and insurance of assets where applicable​."
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Flour Mills Seasonal Finance - RF/CF",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Credit models based on market research used for limit calculation of CF/RF/DF/LG/FATR.  ",
+            " Any other requirement which the bank may deem necessary from time to time."
+        ],
+        "requiredDocuments": [
+            " 18 to 60 years of age.  ",
+            " A business in operation for at least 3 years.  ",
+            " Regular utility bill payment history for last 6 months.  ",
+            " A proprietorship letter or partnership deed or latest form 29.  "
+        ],
+        "collateral": [
+            " Minimum 33% of Force Sale Value of the mortgaged property for CF limits only.  ",
+            " Minimum 50% of Force sale value of the mortgaged property for combined / Mixed limits (CF with RF/DF/LG etc.)"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Cotton Ginning Mills Seasonal Finance - RF/CF",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Credit models based on market research used for limit calculation of CF/RF/DF/LG/FATR.  ",
+            " Any other requirement which the bank may deem necessary from time to time."
+        ],
+        "requiredDocuments": [
+            " 18 to 60 years of age.  ",
+            " A business in operation for at least 3 years.  ",
+            " Regular utility bill payment history for last 6 months.  ",
+            " A proprietorship letter or partnership deed or latest form 29.  "
+        ],
+        "collateral": [
+            " Minimum 33% of force sale value of the mortgaged property for CF limits only.  ",
+            " Minimum 50% of force sale value of the mortgaged property for combined / Mixed limits (CF with RF/DF/LG etc.)"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Rice Husking Seasonal Finance - RF/CF",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Credit models based on market research used for limit calculation of CF/RF/DF/LG/FATR.  ",
+            " Any other requirement which the bank may deem necessary from time to time."
+        ],
+        "requiredDocuments": [
+            " 18 to 60 years of age.  ",
+            " A business in operation for at least 3 years.  ",
+            " Regular utility bill payment history for last 6 months.  ",
+            " A proprietorship letter or partnership deed or latest form 29.  "
+        ],
+        "collateral": [
+            " Minimum 33% of Force Sale Value of the mortgaged property for CF limits only.  ",
+            " Minimum 50% of Force sale value of the mortgaged property for Combined / Mixed limits (CF with RF/DF/LG etc.)"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Oil Seed and Pulses Processing Mills Seasonal Finance - RF/CF",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 100000000
+        },
+       
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Credit models based on market research used for limit calculation of CF/RF/DF/LG/FATR.  ",
+            " Any other requirement which the bank may deem necessary from time to time."
+        ],
+        "requiredDocuments": [
+            " 18 to 60 years of age.  ",
+            " A business in operation for at least 3 years.  ",
+            " Regular utility bill payment history for last 6 months.  ",
+            " A proprietorship letter or partnership deed or latest form 29.  "
+        ],
+        "collateral": [
+            " Minimum 33% of force sale value of the mortgaged property for CF limits only.  ",
+            " Minimum 50% of force sale value of the mortgaged property for combined/mixed limits (CF with RF/DF/LG etc.)"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Seasonal Finance (Letter of Credit)",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 100000000
+        },
+        
+       
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 182
+       },
+        "eligibilityCriteria": [
+            " Borrower or Primary Sponsor must be a Pakistani resident  ",
+            " Age of Primary Sponsor must be between 18 and 70 years  ",
+            " The Borrower must meet KYC (Know your customer) and AML (Anti Money Laundering) criteria set by the bank.  ",
+            " The borrower must fulfill the bank and applicable regulatory policies."
+        ],
+        "requiredDocuments": [
+            " Complete Application Form  ",
+            " Copy of CNIC key sponsor and security provider  ",
+            " Copy of latest utility bills  ",
+            " Proprietorship / declaration / partnership deed / latest form 29  "
+        ],
+        "collateral": [
+            "Financing against local/foreign currency (EUR, USD, GBP) deposits and/or National Saving Certificates (DSC/ SSC/RIC)​​"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "Habib Bank Limited",
+        "productName": "Seasonal Finance (Letter of Guarantee)",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 90,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            " Borrower or Primary Sponsor must be a Pakistani resident  ",
+            " Age of Primary Sponsor must be between 18 and 70 years  ",
+            " The Borrower must meet KYC (Know your customer) and AML (Anti Money Laundering) criteria set by the bank.  ",
+            " The borrower must fulfill the bank and applicable regulatory policies."
+        ],
+        "requiredDocuments": [
+            " Complete Application Form  ",
+            " Copy of CNIC key sponsor and security provider  ",
+            " Copy of latest utility bills  ",
+            " Proprietorship / declaration / partnership deed / latest form 29  "
+        ],
+        "collateral": [
+            "Financing against local/foreign currency (EUR, USD, GBP) deposits and/or National Saving Certificates (DSC/ SSC/RIC)​​"
+        ],
+        "contactDetails": {
+            "name": "Asif Ejaz",
+            "designation": "Program Manager",
+            "department": "Small Business Finance & Easy Loan",
+            "address": "1st Floor, Retail Lending, Corporate Center 102-103 Upper Mall",
+            "city": "Lahore",
+            "phone": "042-36281602",
+            "email": "asif.ejaz@hbl.com"
+        }
+    },
+    {
+        "bankName": "MCB Islamic Bank Limited",
+        "productName": "Murabaha Local Purchase/Finished Goods Murabaha",
+        "sector": "Manufacturing, Trading",
+        "purpose": [
+            "Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "0.5 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 25000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 30,
+            "maxtenure": 365
+       },
+        "collateral": [
+            "Any moveable , immoveable security acceptable to bank including personal guarantee of directors etc where require"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Haroon Afzal",
+            "designation": "Manager",
+            "department": "SME",
+            "address": "Shahrah Aiwan-e-Sanat-o-Tijarat, G.O.R. - I, Lahore, Punjab 54000",
+            "city": "Lahore",
+            "phone": "042-34501000 ext 1380",
+            "email": "haroon.afzal@mcbislamicbank.com"
+        }
+    },
+    {
+        "bankName": "MCB Islamic Bank Limited",
+        "productName": "Istisna based pre-shipment Export Finance",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material",
+            " Others"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "0.5 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 25000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 30,
+            "maxtenure": 365
+       },
+        "collateral": [
+            "Any movable , immovable security acceptable to bank including personal guarantee of directors etc where require"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Haroon Afzal",
+            "designation": "Manager",
+            "department": "SME",
+            "address": "Shahrah Aiwan-e-Sanat-o-Tijarat, G.O.R. - I, Lahore, Punjab 54000",
+            "city": "Lahore",
+            "phone": "042-34501000 ext 1380",
+            "email": "haroon.afzal@mcbislamicbank.com"
+        }
+    },
+    {
+        "bankName": "MCB Islamic Bank Limited",
+        "productName": "Istisna",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material",
+            " Others"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "0.5 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 25000000,
+            "maxAmount": 200000000
+        },
+       
+        "tenure":{
+            "mintenure": 30,
+            "maxtenure": 365
+       },
+        "collateral": [
+            "Any movable , immovable security acceptable to bank including personal guarantee of directors etc where require"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Haroon Afzal",
+            "designation": "Manager",
+            "department": "SME",
+            "address": "Shahrah Aiwan-e-Sanat-o-Tijarat, G.O.R. - I, Lahore, Punjab 54000",
+            "city": "Lahore",
+            "phone": "042-34501000 Ext 1380",
+            "email": "haroon.afzal@mcbislamicbank.com"
+        }
+    },
+    {
+        "bankName": "MCB Islamic Bank Limited",
+        "productName": "Commodity Salam",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material",
+            " Others"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "0.5 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 25000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 30,
+            "maxtenure": 365
+       },
+        "collateral": [
+            "Any moveable , immoveable security acceptable to bank including personal guarantee of directors etc where require"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Haroon Afzal",
+            "designation": "Manager",
+            "department": "SME",
+            "address": "Shahrah Aiwan-e-Sanat-o-Tijarat, G.O.R. - I, Lahore, Punjab 54000",
+            "city": "Lahore",
+            "phone": "042-34501000 Ext 1308",
+            "email": "haroon.afzal@mcbislamicbank.com"
+        }
+    },
+    {
+        "bankName": "MCB Islamic Bank Limited",
+        "productName": "Ijarah",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Purchase of Agricultural Machinery and Implements",
+            " Purchase of Dairy/Livestock/Poultry Machinery",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Others"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "0.5 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 25000000,
+            "maxAmount": 200000000
+        },
+       
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            "Financing limit as per clients/ requirements or per party entitlement as specified in respective Prudential Regulations for SME financing whichever is lower subject to banks"
+        ],
+        "collateral": [
+            "Any moveable , immoveable security acceptable to bank including personal guarantee of directors etc where require"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Haroon Afzal",
+            "designation": "Manager",
+            "department": "SME",
+            "address": "Shahrah Aiwan-e-Sanat-o-Tijarat, G.O.R. - I, Lahore, Punjab 54000",
+            "city": "Lahore",
+            "phone": "042-34501000 Ext 1308",
+            "email": "haroon.afzal@mcbislamicbank.com"
+        }
+    },
+    {
+        "bankName": "MCB Islamic Bank Limited",
+        "productName": "Diminishing Musharaka",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Purchase of Agricultural Machinery and Implements",
+            " Purchase of Dairy/Livestock/Poultry Machinery",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Others"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "0.5 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 25000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            "Financing limit as per clients/ requirements or per party entitlement as specified in respective Prudential Regulations for SME financing whichever is lower subject to banks"
+        ],
+        "collateral": [
+            "Any moveable , immoveable security acceptable to bank including personal guarantee of directors etc where require"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Haroon Afzal",
+            "designation": "Manager",
+            "department": "SME",
+            "address": "Shahrah Aiwan-e-Sanat-o-Tijarat, G.O.R. - I, Lahore, Punjab 54000",
+            "city": "Lahore",
+            "phone": "042-34501000 Ext 1308",
+            "email": "haroon.afzal@mcbislamicbank.com"
+        }
+    },
+    {
+        "bankName": "MCB Islamic Bank Limited",
+        "productName": "Letter of Credit Sight / Usance",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 25000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 182
+       },
+        "eligibilityCriteria": [
+            "Financing limit as per clients/ requirements or per party entitlement as specified in respective Prudential Regulations for SME financing whichever is lower subject to banks"
+        ],
+        "collateral": [
+            "Any moveable , immoveable security acceptable to bank including personal guarantee of directors etc where require"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Haroon Afzal",
+            "designation": "Manager",
+            "department": "SME",
+            "address": "Shahrah Aiwan-e-Sanat-o-Tijarat, G.O.R. - I, Lahore, Punjab 54000",
+            "city": "Lahore",
+            "phone": "042-34501000 Ext 1308",
+            "email": "haroon.afzal@mcbislamicbank.com"
+        }
+    },
+    {
+        "bankName": "MCB Islamic Bank Limited",
+        "productName": "Letter of Guarantee",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 25000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "Financing limit as per clients/ requirements or per party entitlement as specified in respective Prudential Regulations for SME financing whichever is lower subject to banks"
+        ],
+        "collateral": [
+            "Any moveable , immoveable security acceptable to bank including personal guarantee of directors etc where require"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Haroon Afzal",
+            "designation": "Manager",
+            "department": "SME",
+            "address": "Shahrah Aiwan-e-Sanat-o-Tijarat, G.O.R. - I, Lahore, Punjab 54000",
+            "city": "Lahore",
+            "phone": "042-34501000 Ext 1308",
+            "email": "haroon.afzal@mcbislamicbank.com"
+        }
+    },
+    {
+        "bankName": "Meezan Bank",
+        "productName": "Diminishing Musharaka",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + load",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 200000000
+        },
+        
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            " Customers having good business profiles, track record, cash flow  ",
+            " Able to meet the obligations,  ",
+            " Shariah mind set and  ",
+            " Positive approach towards growth as well as repayment of obligations."
+        ],
+        "requiredDocuments": [
+            " 3 years financials  ",
+            " BBFS  ",
+            " Request Letter  ",
+            " CNIC  "
+        ],
+        "collateral": [
+            " Joint ownership the asset purchased through Musharakah  ",
+            " Collateral  ",
+            " Personal guarantee/s"
+        ],
+        "contactDetails": {
+            "name": "Mr. Saqib Mustafa",
+            "designation": "Regional Coordinator-North",
+            "department": "SME/Commercial, North Region",
+            "address": "32-Sohrab Plaza, Jinnah Avenue Blue Area",
+            "city": "Islamabad",
+            "phone": "051-2271093, Fax 051-2824127"
+        }
+    },
+    {
+        "bankName": "Meezan Bank",
+        "productName": "Murabaha",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 30,
+            "maxtenure": 182
+       },
+        "eligibilityCriteria": [
+            " Customers having good business profiles, track record, cash flow  ",
+            " Able to meet the obligations,  ",
+            " Shariah mindset and  ",
+            " Positive approach towards growth as well as repayment of obligations."
+        ],
+        "requiredDocuments": [
+            " 3 years financials  ",
+            " BBFS  ",
+            " Request Letter  ",
+            " CNIC  "
+        ],
+        "collateral": [
+            " Collateral  ",
+            " Personal guarantee/s"
+        ],
+        "contactDetails": {
+            "name": "Mr. Saqib Mustafa",
+            "designation": "Regional Coordinator-North",
+            "department": "SME/Commercial, North Region",
+            "address": "32-Sohrab Plaza, Jinnah Avenue Blue Area",
+            "city": "Islamabad",
+            "phone": "051-2271093, Fax 051-2824127"
+        }
+    },
+    {
+        "bankName": "Meezan Bank",
+        "productName": "Ijarah",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            " Customers having good business profiles, track record, cash flow  ",
+            " Able to meet the obligations,  ",
+            " Shariah mind set and  ",
+            " Positive approach towards growth as well as repayment of obligations."
+        ],
+        "requiredDocuments": [
+            " 3 years financials  ",
+            " BBFS  ",
+            " Request Letter  ",
+            " CNIC  "
+        ],
+        "collateral": [
+            " Ownership of Leased Asset  ",
+            " Personal Guarantee/s  ",
+            " Post Dated Cheque  ",
+            " Security Deposit 10%(min) & additional collateral"
+        ],
+        "contactDetails": {
+            "name": "Mr. Saqib Mustafa",
+            "designation": "Regional Coordinator-North",
+            "department": "SME/Commercial, North Region",
+            "address": "32-Sohrab Plaza, Jinnah Avenue Blue Area",
+            "city": "Islamabad",
+            "phone": "051-2271093, Fax 051-2824127"
+        }
+    },
+    {
+        "bankName": "Meezan Bank",
+        "productName": "Istisna",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 30,
+            "maxtenure": 182
+       },
+        "eligibilityCriteria": [
+            " Customers having good business profiles, track record, cash flow  ",
+            " Able to meet the obligations,  ",
+            " Shariah mind set and  ",
+            " Positive approach towards growth as well as repayment of obligations."
+        ],
+        "requiredDocuments": [
+            " 3 years financials  ",
+            " BBFS  ",
+            " Request Letter  ",
+            " CNIC  "
+        ],
+        "collateral": [
+            " Collateral  ",
+            " Personal Guarantee/s"
+        ],
+        "contactDetails": {
+            "name": "Mr. Saqib Mustafa",
+            "designation": "Regional Coordinator-North",
+            "department": "SME/Commercial, North Region",
+            "address": "32-Sohrab Plaza, Jinnah Avenue Blue Area",
+            "city": "Islamabad",
+            "phone": "051-2271093, Fax 051-2824127"
+        }
+    },
+    {
+        "bankName": "Meezan Bank",
+        "productName": "Meezan Tijarah",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 30,
+            "maxtenure": 182
+       },
+        "eligibilityCriteria": [
+            " Customers having good business profiles, track record, cash flow  ",
+            " Able to meet the obligations,  ",
+            " Shariah mind set and  ",
+            " Positive approach towards growth as well as repayment of obligations."
+        ],
+        "requiredDocuments": [
+            " 3 years financials  ",
+            " BBFS  ",
+            " Request Letter  ",
+            " CNIC  "
+        ],
+        "collateral": [
+            " Collateral  ",
+            " Personal Guarantee/s"
+        ],
+        "contactDetails": {
+            "name": "Mr. Saqib Mustafa",
+            "designation": "Regional Coordinator-North",
+            "department": "SME/Commercial, North Region",
+            "address": "32-Sohrab Plaza, Jinnah Avenue Blue Area",
+            "city": "Islamabad",
+            "phone": "051-2271093, Fax 051-2824127"
+        }
+    },
+    {
+        "bankName": "Meezan Bank",
+        "productName": "Bai Salam against export sight",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Customers having good business profiles, track record, cash flow  ",
+            " Able to meet the obligations,  ",
+            " Shariah mind set and  ",
+            " Positive approach towards growth as well as repayment of obligations."
+        ],
+        "requiredDocuments": [
+            " 3 years financials  ",
+            " BBFS  ",
+            " Request Letter  ",
+            " CNIC  "
+        ],
+        "collateral": [
+            " Lien over clean export  ",
+            " Personal Guarantee/s"
+        ],
+        "contactDetails": {
+            "name": "Mr. Saqib Mustafa",
+            "designation": "Regional Coordinator-North",
+            "department": "SME/Commercial, North Region",
+            "address": "32-Sohrab Plaza, Jinnah Avenue Blue Area",
+            "city": "Islamabad",
+            "phone": "051-2271093, Fax 051-2824127"
+        }
+    },
+    {
+        "bankName": "Meezan Bank",
+        "productName": "Letter of credit sight / Usance",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+      
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 250000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Customers having good business profiles, track record, cash flow  ",
+            " Able to meet the obligations,  ",
+            " Shariah mind set and  ",
+            " Positive approach towards growth as well as repayment of obligations."
+        ],
+        "requiredDocuments": [
+            " 3 years financials  ",
+            " BBFS  ",
+            " Request Letter  ",
+            " CNIC  "
+        ],
+        "collateral": [
+            " Lien over import documents  ",
+            " Accepted Draft"
+        ],
+        "contactDetails": {
+            "name": "Mr. Saqib Mustafa",
+            "designation": "Regional Coordinator-North",
+            "department": "SME/Commercial, North Region",
+            "address": "32-Sohrab Plaza, Jinnah Avenue Blue Area",
+            "city": "Islamabad",
+            "phone": "051-2271093, Fax 051-2824127"
+        }
+    },
+    {
+        "bankName": "Meezan Bank",
+        "productName": "Letter of Guarantee",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Guarantee/LC"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "As per schedule of charges,",
+            "minMarkUp": "0 %",
+            "maxMarkUp": "0 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 75000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Customers having good business profiles, track record, cash flow  ",
+            " Able to meet the obligations,  ",
+            " Shariah mindset and  ",
+            " Positive approach towards growth as well as repayment of obligations."
+        ],
+        "requiredDocuments": [
+            " 3 years financials  ",
+            " BBFS  ",
+            " Request Letter  ",
+            " CNIC  "
+        ],
+        "collateral": [
+            " Cash margin (min. 10%)  ",
+            " Collateral  ",
+            " Personal Guarantee/s"
+        ],
+        "contactDetails": {
+            "name": "Mr. Saqib Mustafa",
+            "designation": "Regional Coordinator-North",
+            "department": "SME/Commercial, North Region",
+            "address": "32-Sohrab Plaza, Jinnah Avenue Blue Area",
+            "city": "Islamabad",
+            "phone": "051-2271093, Fax 051-2824127"
+        }
+    },
+    {
+        "bankName": "Silk Bank",
+        "productName": "M Power",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spred",
+            "minMarkUp": "3 %",
+            "maxMarkUp": "7 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 30000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            " Must be a Pakistani Resident  ",
+            " Fresh Customers and BTF  ",
+            " Approved cities: Karachi, Lahore, Rawalpindi, Islamabad, Faisalabad, Multan and Gujranwala.  ",
+            " Min Income PKR 50,000 per month  "
+        ],
+        "requiredDocuments": [
+            ". Personal Document:  • Copy of CNIC  • Passport Size Photo  2. Property Related Document:  • The complete chain of original documents of property.  • Copy of approved building plan  • Copy of Last Property Tax  3. Business Related Document:  • Proprietorship & Partnership deed etc.  • Copy of title documents or rent deed  • Copy of any paid utility bill received at office or residence;  • Income tax return;  • NTN certificate.  4. Banking Relationship Related Documents:   • ",
+            "2 months bank statement; list of property documents held with other banks( for BTF)  • BBFS  • Bank certificate in case of proprietorship & partnership concern  • Financial statement as per SBP SME PR  5. Documents Required in case of Co-borrower:  •  copy of CNIC 2 recent passport size photographs; proof of relationship if not evidenced by CNIC"
+        ],
+        "collateral": [
+            "Maximum up to 3 collaterals including residential & commercial properties and land with maximum upto 70% LTV"
+        ],
+        "contactDetails": {
+            "name": "Maliha Shahid",
+            "designation": "Product Manager",
+            "department": "SME Financing",
+            "address": "52-L,Gulberg III,",
+            "city": "Lahore"
+        }
+    },
+    {
+        "bankName": "Silk Bank",
+        "productName": "Agri Finance (Running Finance)",
+        "sector": "Agriculture",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "5 %",
+            "maxMarkUp": "5.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 30000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Must be a Pakistani Resident  ",
+            " Fresh Customers and BTF  ",
+            " Approved cities: Karachi, Lahore, Rawalpindi, Islamabad, Faisalabad, Multan and Gujranwala.  ",
+            " Min Income PKR 50,000 per month  "
+        ],
+        "requiredDocuments": [
+            ". Personal Document:  • Copy of CNIC  • Passport Size Photo  2. Property Related Document:  • A complete chain of original documents of property.  • Copy of approved building plan  • Copy of Last Property Tax  3. Business Related Document:  • Proprietorship & Partnership deed etc.  • Copy of title documents or rent deed  • Copy of last 6 months paid electricity bill business premises;  • Income tax returns;  • NTN certificate.  4. Banking Relationship Related Documents:   • ",
+            "2 months bank statement; list of property documents/ Certificate (only BTF); list of property documents held with other banks( for BTF)  • BBFS  • Bank certificate in case of proprietorship & partnership concern  • Financial statement as per SBP SME PR  5. Documents Required in case of Co-borrower:  •  Copy of CNIC  • 2 recent passport size photographs;  • Proof of relationship if not evidenced by CNIC"
+        ],
+        "collateral": [
+            "Maximum up to 3 collaterals including residential & commercial properties and land with maximum up to 70% LTV"
+        ],
+        "contactDetails": {
+            "name": "Faisal Shabbir",
+            "designation": "Regional Sales Manager",
+            "department": "SME Financing",
+            "address": "Silkbank Limited Multan",
+            "city": "Multan"
+        }
+    },
+    {
+        "bankName": "Silk Bank",
+        "productName": "Textile Utility Financing (Running Finance)",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "4.5 %",
+            "maxMarkUp": "5.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 30000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Must be a Pakistani Resident  ",
+            " Fresh Customers and BTF  ",
+            " Approved cities: Karachi, Lahore, Rawalpindi, Islamabad, Faisalabad, Multan and Gujranwala.  ",
+            " Min Income PKR 50,000 per month  "
+        ],
+        "requiredDocuments": [
+            ". Personal Document:  • Copy of CNIC  • Passport Size Photo  2. Property Related Document:  • A complete chain of original documents of property.  • Copy of approved building plan  • Copy of Last Property Tax  3. Business Related Document:  • Proprietorship & Partnership deed etc.  • Copy of title documents or rent deed  • Copy of last 6 months paid electricity bill business premises;  • Income tax return;  • NTN certificate.  4. Banking Relationship Related Documents:  •  ",
+            "2 months bank statement; list of property documents/ Certificate (only BTF); list of property documents held with other banks( for BTF)  • BBFS  • Bank certificate in case of proprietorship & partnership concern  • Financial statement as per SBP SME PR  5. Documents Required in case of Co-borrower:  •  Copy of CNIC  • 2 recent passport size photographs;  • Proof of relationship if not evidenced by CNIC"
+        ],
+        "collateral": [
+            "Maximum up to 3 collaterals including residential & commercial properties and land with maximum up to 70% LTV"
+        ],
+        "contactDetails": {
+            "name": "Amina Wazir",
+            "designation": "Assistant Product Manager",
+            "department": "SME Financing",
+            "address": "52-L, Gulberg III,",
+            "city": "Lahore",
+            "phone": "042-35857991"
+        }
+    },
+    {
+        "bankName": "Silk Bank",
+        "productName": "Running Finance - SME",
+        "sector": "Agriculture, Manufacturing, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "4 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 75000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Conclusively identified need for working capital requirements for the business's normal course of operations  ",
+            " The loan is renewable on completing the 1st tenure in good faith."
+        ],
+        "requiredDocuments": [
+            ". Depending on nature and type of case the following is usually required:  • Loan application documents with CNIC etc  • Business & Sponsors profile  • Business registration documents depending on the type of business.(e.g. partnership deed, NTN, Certificate of Incorporation, Form A +29 etc)  • Evidence to support working capital requirements(trade documents, invoices, contracts etc)  • Financial statements & cash flows  • Information regarding existing banking relationships  • Documents pertaining to securities against requested financing"
+        ],
+        "collateral": [
+            "Depending on the case, primary security is usually current assets with secondary collateral being property comprising land."
+        ],
+        "contactDetails": {
+            "name": "Mr. Umar Moin",
+            "designation": "-",
+            "department": "-",
+            "address": "-",
+            "city": "Islamabad",
+            "phone": "051-4861323",
+            "email": "info@silkbank.com.pk"
+        }
+    },
+    {
+        "bankName": "Silk Bank",
+        "productName": "Term Finance - SME",
+        "sector": "Agriculture, Manufacturing, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "4 %",
+            "maxMarkUp": "5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 75000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            " Preferred Sectors:  ",
+            " Light Engineering, General Trading, Construction, Agri support, Steel ,Electrical, Printing and packaging, Plastics, Automotive etc.  ",
+            " Capital expenditure suuch;as expansion of business capacity, construction of plant/factory infrastructure, procurement of plant & machinery etc  ",
+            " The loan is renewable on completing the 1st tenure in good faith."
+        ],
+        "requiredDocuments": [
+            ". Depending on nature and type of case the following is usually required:  • Loan application documents with CNIC etc  • Business & Sponsors profile  • Business registration documents depending on type of business.(e.g. partnersip deed, NTN,Certificate of Incorporation, Form A +29 etc)  • Evidence to support working capital requirements(trade documents, invoices, contracts etc)  • Financial statements & cash flows  • Information regarding existing banking relationships  • Documents pertaining to securities against requested financing"
+        ],
+        "collateral": [
+            "Depending on case, primary security is usually fixed assets procured or developed from the term finance with secondary collateral being property comprising land."
+        ],
+        "contactDetails": {
+            "name": "Mr. Umar Moin",
+            "city": "Islamabad",
+            "phone": "051-4861323"
+        }
+    },
+    {
+        "bankName": "The Bank of Punjab",
+        "productName": "Running Finance For Small Enterprises",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "5.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 25000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            " Age Limit 25 to 55 years,  ",
+            " 3 years in current business,  ",
+            " The property must be located in good areas and be easy saleable.  ",
+            " Membership of Chamber of commerce or  "
+        ],
+        "requiredDocuments": [
+            " CNIC  ",
+            " life and property insurance(mandatory)  ",
+            " Up to Rs 10 Million estimated sales and net margins to be mentioned approximately and above Rs. 10 mn financial statements duly approved by the Chartered Accountant (Mandatory)."
+        ],
+        "collateral": [
+            " House/Shop/Building/Plot.  ",
+            " Owner-occupied commercial building.  ",
+            " Land in the residential area.  ",
+            " In case, construction is more than 20 years old at the time of facility approval, then only value of land will be considered for limit"
+        ],
+        "contactDetails": {
+            "name": "Asser Ahmed Khan",
+            "designation": "Country Head",
+            "department": "Commercial Banking",
+            "address": "Head Office",
+            "phone": "042-35783700-10"
+        }
+    },
+    {
+        "bankName": "The Bank of Punjab",
+        "productName": "Running Finance For Medium Enterprises",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "5.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            " Age Limit 25 to 55 years,  ",
+            " 3 years in current business,  ",
+            " The property must be located in good areas and be easy saleable.  ",
+            " Membership of Chamber of commerce or  "
+        ],
+        "requiredDocuments": [
+            " CNIC  ",
+            " life and property insurance(mandatory)  ",
+            " Up to Rs 10 Million estimated sales and net margins to be mentioned approximately and above Rs. 10 mn financial statements duly approved by the Chartered Accountant (Mandatory)."
+        ],
+        "collateral": [
+            " House/Shop/Building/Plot.  ",
+            " Owner-occupied commercial building.  ",
+            " In case, construction is more than 20 years old at the time of facility approval, then only the value of land will be considered for limit.  ",
+            " Un-dated cheques totaling Marked Up amount"
+        ],
+        "contactDetails": {
+            "name": "Asser Ahmed Khan",
+            "designation": "Country Head",
+            "department": "Commercial Banking",
+            "address": "Head Office",
+            "phone": "042-35783700-10"
+        }
+    },
+    {
+        "bankName": "The Bank of Punjab",
+        "productName": "Demand Finance (Medium Term)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "6 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 100000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 2555
+       },
+        "eligibilityCriteria": [
+            " Age Limit 25 to 55 years  ",
+            " 3 years in current business"
+        ],
+        "requiredDocuments": [
+            " Copy of Computerized National Identity Card (CNIC)  ",
+            " Bank Statement for last 6 months   ",
+            " Latest copy of residence & business utility bill  ",
+            " Cash flows/sales breakup of the business  "
+        ],
+        "collateral": [
+            " House/Shop/Building/Plot.  ",
+            " Owner-occupied commercial building.  ",
+            " In case, construction is more than 20 years old at the time of facility approval, then only the value of land will be considered for limit.  ",
+            " Un-dated cheques totaling Marked Up amount"
+        ],
+        "contactDetails": {
+            "name": "Asser Ahmed Khan",
+            "designation": "Country Head",
+            "department": "Commercial Banking",
+            "address": "Head Office",
+            "phone": "042-35783700-10"
+        }
+    },
+    {
+        "bankName": "The Bank of Punjab",
+        "productName": "Lady Entrepreneur Financiang (Running Finance For Small Enterprises)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "2.5 %",
+            "maxMarkUp": "5.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 25000000
+        },
+        
+        "tenure":{
+            "mintenure": 365,
+            "maxtenure": 1095
+       },
+        "eligibilityCriteria": [
+            " Age Limit 25 to 55 years  ",
+            " 3 years in current business"
+        ],
+        "requiredDocuments": [
+            " Copy of Computerized National Identity Card (CNIC)  ",
+            " Bank Statement for last 6 months   ",
+            " Latest copy of residence & business utility bill  ",
+            " Cash flows/sales breakup of the business  "
+        ],
+        "collateral": [
+            " House/Shop/Building/Plot.  ",
+            " Owner-occupied commercial building.  ",
+            " In case, construction is more than 20 years old at the time of facility approval, then only the value of land will be considered for the limit.  ",
+            " Un-dated cheques totaling Marked Up amount"
+        ],
+        "contactDetails": {
+            "name": "Asser Ahmed Khan",
+            "designation": "Country Head",
+            "department": "Commercial Banking",
+            "address": "Head Office",
+            "phone": "042-35783700-10"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "UBL Karobar Loan (Running Finance)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "4.5 %",
+            "maxMarkUp": "5.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 30000000
+        },
+       
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Minimum age 21 years and Maximum age 60  ",
+            " Minimum 3 years of respective business experience"
+        ],
+        "requiredDocuments": [
+            " Valid CNIC.  ",
+            " Borrower Basic Fact Sheet.  ",
+            " Copy of property documents.  ",
+            " Financial Statements.  "
+        ],
+        "collateral": [
+            "75% of the property value"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "UBL Karobar Loan (Demand Finance)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "4.5 %",
+            "maxMarkUp": "5.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 30000000
+        },
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            " Minimum age 21 years and Maximum age 60  ",
+            " Minimum 3 years of respective business experience"
+        ],
+        "requiredDocuments": [
+            " Valid CNIC.  ",
+            " Borrower Basic Fact Sheet.  ",
+            " Copy of property documents.  ",
+            " Financial Statements.  "
+        ],
+        "collateral": [
+            "75% of property value"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "UBL Sahulat Loan (Running Finance)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "3.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+       
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "Minimum age 21 years and Maximum age 60"
+        ],
+        "requiredDocuments": [
+            " Valid CNIC.  ",
+            " Borrower Basic Fact Sheet.  ",
+            " Financial Statements.  ",
+            " Audit financials in case of limited companies.  "
+        ],
+        "collateral": [
+            "Up to 90% financing available against the deposit account and Government Securities including DSCs, SSCs, and RICs."
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "UBL Sahulat Loan (Demand Finance)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "3.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            "Minimum age 21 years and Maximum age 60"
+        ],
+        "requiredDocuments": [
+            " Valid CNIC.  ",
+            " Borrower Basic Fact Sheet.  ",
+            " Financial Statements.  ",
+            " Audit financials in case of limited companies.  "
+        ],
+        "collateral": [
+            "Up to 90% financing available against the deposit account and Government Securities including DSCs, SSCs, and RICs."
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "UBL Smart Cash Loan (Running Finance)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+       
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "3.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            "Minimum age 21 years and Maximum age 60"
+        ],
+        "requiredDocuments": [
+            " Valid CNIC.  ",
+            " Borrower Basic Fact Sheet.  ",
+            " Financial statements.  ",
+            " Audit financials in case of limited companies.  "
+        ],
+        "collateral": [
+            "85% of the Investment/ Mutual Funds"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "UBL Smart Cash Loan (Demand Finance)",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "3.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 1000000,
+            "maxAmount": 200000000
+        },
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            "Minimum age 21 years and Maximum age 60"
+        ],
+        "requiredDocuments": [
+            " Valid CNIC.  ",
+            " Borrower Basic Fact Sheet.  ",
+            " Financial statements.  ",
+            " Audit financials in case of limited companies.  "
+        ],
+        "collateral": [
+            "85% of the Investment/ Mutual Funds"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "UBL Rice Husking Loan",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "3.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 75000000
+        },
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Minimum age 21 years and Maximum age 60  ",
+            " Minimum 3 years of respective business experience  ",
+            " Sole Proprietorship, Partnership, and Private Limited companies"
+        ],
+        "requiredDocuments": [
+            " Customer Request Letter.  ",
+            " Valid CNIC.  ",
+            " Borrowers Basic Fact Sheet.  ",
+            " Audited Financial Statements.  "
+        ],
+        "collateral": [
+            " Pledge Guarantee and/or Immovable Property  ",
+            " Business Hypothecation"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "UBL Cotton Ginning Loan",
+        "sector": "Manufacturing",
+        "purpose": [
+            "Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "3.5 %",
+            "maxMarkUp": "4.5 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 500000,
+            "maxAmount": 100000000
+        },
+        
+        
+        "tenure":{
+            "mintenure": 0,
+            "maxtenure": 365
+       },
+        "eligibilityCriteria": [
+            " Minimum age 21 years and Maximum age 60  ",
+            " Minimum 3 years of respective business experience  ",
+            " Sole Proprietorship, Partnership, and Private Limited companies"
+        ],
+        "requiredDocuments": [
+            " Customer Request Letter.  ",
+            " Valid CNIC.  ",
+            " Borrowers Basic Fact Sheet.  ",
+            " Audited Financial Statements.  "
+        ],
+        "collateral": [
+            " Pledge Guarantee and/or Immovable Property  ",
+            " Business Hypothecation"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    },
+    {
+        "bankName": "United Bank Limited (UBL)",
+        "productName": "PMYBL",
+        "sector": "Agriculture, Manufacturing, Services, Trading",
+        "purpose": [
+            "Construct Building",
+            " Payment of Labour & other expenses",
+            " Payment to Suppliers",
+            " Purchase of Agricultural Inputs",
+            " Purchase of Agricultural Machinery and Implements",
+            " Purchase of Dairy/Livestock/Poultry Machinery",
+            " Purchase of Land",
+            " Purchase of Machinery and Equipment",
+            " Purchase of Raw Material"
+        ],
+        
+        "markUp": {
+            "postFix": "",
+            "preFix": "Avg. KIBOR + spread",
+            "minMarkUp": "5 %",
+            "maxMarkUp": "6 %"
+            
+            },
+        "loanAmount": {
+            "minAmount": 100000,
+            "maxAmount": 2000000
+        },
+        
+        
+        
+        "tenure":{
+            "mintenure": 1095,
+            "maxtenure": 1825
+       },
+        "eligibilityCriteria": [
+            "Minimum age 21 years and Maximum age 45"
+        ],
+        "requiredDocuments": [
+            " Prescribed Application Form signed by Customer.  ",
+            " Valid CNIC.  ",
+            " Financial Statements.  ",
+            " Bank statement.  "
+        ],
+        "collateral": [
+            " Guarantee and/or Immovable Property  ",
+            " Business Hypothecation"
+        ],
+        "contactDetails": {
+            "name": "Muhammad Mubashar",
+            "designation": "Relationship Manager",
+            "department": "SME Financing",
+            "address": "Head Office",
+            "phone": "0312-2141985"
+        }
+    }
+]
